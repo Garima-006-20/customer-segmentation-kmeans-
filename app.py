@@ -88,7 +88,7 @@ st.markdown("""
 8. Streamlit Deployment
 """)
 st.metric("Silhouette Score", "0.55")
-st.subheader("📊 Customer Segmentation Visualization")
+
 
 
 # ------------------ LOAD MODEL ------------------
