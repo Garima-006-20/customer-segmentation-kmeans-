@@ -90,11 +90,6 @@ st.markdown("""
 st.metric("Silhouette Score", "0.55")
 st.subheader("📊 Customer Segmentation Visualization")
 
-st.image(
-    "images/customer_segments.png",
-    caption="K-Means Clustering Result",
-    use_container_width=True
-)
 
 # ------------------ LOAD MODEL ------------------
 try:
