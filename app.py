@@ -89,12 +89,12 @@ st.markdown("""
 """)
 st.metric("Silhouette Score", "0.55")
 st.subheader("📊 Customer Segmentation Visualization")
-st.pyplot(fig)
+
 
 # ------------------ LOAD MODEL ------------------
 try:
-    model = joblib.load("model/kmeans_model.pkl")
-    scaler = joblib.load("model/scaler.pkl")
+    model = joblib.load("kmeans_model.pkl")
+    scaler = joblib.load("scaler.pkl")
 except Exception as e:
     st.error(f"Error loading model files: {e}")
     st.stop()
