@@ -75,6 +75,14 @@ The K-Means model successfully segments customers into five distinct groups base
 * Advanced clustering algorithms
 * Personalized recommendation systems
 * Business analytics dashboard
+## Live Demo
+
+Streamlit Application: [https://your-app-name.streamlit.app](https://wiyiipewnbek5tmbxbeoyj.streamlit.app/)
+
+## GitHub Repository
+
+Repository: [https://github.com/your-username/customer-segmentation-kmeans](https://github.com/Garima-006-20/customer-segmentation-kmeans-)
+
 
 ## Author
 
