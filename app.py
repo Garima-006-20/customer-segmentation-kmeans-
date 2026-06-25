@@ -89,7 +89,7 @@ st.markdown("""
 """)
 st.metric("Silhouette Score", "0.55")
 st.subheader("📊 Customer Segmentation Visualization")
-
+st.pyplot(fig)
 
 # ------------------ LOAD MODEL ------------------
 try:
