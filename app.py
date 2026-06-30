@@ -4,12 +4,12 @@ import numpy as np
 
 # ------------------ PAGE TITLE ------------------
 st.set_page_config(
-    page_title="Customer Segmentation using K-Means",
+    page_title="MarketMind AI : Customer Segmentation using K-Means Clustering",
     page_icon="🛍️",
     layout="centered"
 )
 
-st.title("🛍️ Customer Segmentation using K-Means Clustering")
+st.title("🛍️ MarketMind AI : Customer Segmentation using K-Means Clustering")
 
 # ------------------ SIDEBAR ------------------
 st.sidebar.header("📌 About Project")
