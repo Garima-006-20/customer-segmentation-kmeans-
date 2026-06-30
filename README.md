@@ -1,4 +1,4 @@
-# Customer Segmentation Using K-Means Clustering
+# MarketMind AI : Customer Segmentation Using K-Means Clustering
 
 ## Project Overview
 
